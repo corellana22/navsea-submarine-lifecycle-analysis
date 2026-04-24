@@ -4,6 +4,11 @@ Submarine lifecycle data analysis using Python (Pandas) and Tableau to clean, st
 
 ---
 
+## NOTE
+This project was completed during my internship at NSWC Corona (Fall 2025). Data and materials have been modified or omitted to protect sensitive information.
+
+---
+
 ## Project Overview
 This project focuses on transforming raw submarine lifecycle data into structured, analyzable datasets. The goal was to improve data quality and enable clearer insights into maintenance patterns, operational timelines, and lifecycle trends.
 
