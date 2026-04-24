@@ -46,23 +46,3 @@ navsea-submarine-lifecycle-analysis/
 │
 └── README.md
 ```
-
-## How to Run
-
-1. Install dependencies:
-
-```bash
-pip install pandas numpy
-```
-
-2. Run data cleaning script:
-
-```bash
-python scripts/clean_data.py
-```
-
-## Dashboard Preview
-![Line Chart Dashboard](images/Line-Chart-Dashboard.png)
-![Gantt Chart Dashboard](images/Gantt-Chart-Dashboard.png)
-![Bar Chart Dashboard](images/Bar-Chart-Dashboard.png)
-![Scatter Map Chart Dashboard](images/Scatter-Map-Dashboard.png)
